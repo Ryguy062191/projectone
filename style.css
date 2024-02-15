@@ -9,3 +9,14 @@ i{
 
 
 
+header{
+    background: linear-gradient(110 deg,yellow 40%,pink 40%);
+}
+
+section{
+    background: lightseagreen;
+}
+
+footer{
+    background: black; color:whitesmoke;
+}
